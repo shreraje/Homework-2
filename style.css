@@ -1,0 +1,42 @@
+div{
+    background-color: rgb(184, 202, 228); */
+    background-attachment: fixed;
+    
+}
+.footer{
+    background-color: rgb(184, 202, 228);
+    border: black;
+    border-style: double;
+
+}
+
+.btn{
+    margin: 20px;
+    padding: 10px;
+    font-size: 20px;
+    background-color:lightseagreen;
+   
+}
+
+.header-contact{
+    text-align: left;
+    font-weight: 300px;
+    font-size: 30px;
+    color: black;
+
+}
+
+.margin{
+    border-style:double;
+    box-sizing: border-box;
+        
+}
+
+.contact{
+    color: gray;
+    font-size: 15px;
+    margin: 5px;
+
+}
+
+
