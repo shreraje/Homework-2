@@ -1,10 +1,10 @@
 div{
-    background-color: rgb(184, 202, 228); */
+    background-color: rgb(184, 202, 228);
     background-attachment: fixed;
     
 }
 .footer{
-    background-color: rgb(184, 202, 228);
+    /* background-color: rgb(184, 202, 228); */
     border: black;
     border-style: double;
 
@@ -24,12 +24,6 @@ div{
     font-size: 30px;
     color: black;
 
-}
-
-.margin{
-    border-style:double;
-    box-sizing: border-box;
-        
 }
 
 .contact{
