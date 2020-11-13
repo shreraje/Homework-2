@@ -1,10 +1,10 @@
-div{
+body{
     background-color: rgb(184, 202, 228);
     background-attachment: fixed;
     
 }
 .footer{
-    /* background-color: rgb(184, 202, 228); */
+    background-color: rgb(184, 202, 228);
     border: black;
     border-style: double;
 
