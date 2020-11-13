@@ -1,10 +1,22 @@
+*{
+    color: aliceblue;
+}
+
 body{
-    background-color: rgb(184, 202, 228);
+    background-image: linear-gradient(to right, black, teal);
+    /* background-color: rgb(184, 202, 228); */
     background-attachment: fixed;
     
 }
+
+.card-body{
+    background-image: linear-gradient(to right, black, teal);
+    background-attachment: fixed;
+    
+}
+
 .footer{
-    background-color: rgb(184, 202, 228);
+    background-image: linear-gradient(to right, teal);;
     border: black;
     border-style: double;
 
