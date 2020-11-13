@@ -8,7 +8,7 @@ The main objective of designming this project is to check the simple responsive 
 
 ## Table of Contents
 * [Description](#description)
-* [Additions on my portfolio page](#additions_on_my_portfolio_page)
+* [Additions_on_my_portfolio_page](#additions_on_my_portfolio_page)
 * [Technologies](#technologies)
 * [Contribution](#contribution)
 * [Screenshot](#screenshot)
@@ -24,10 +24,11 @@ The main objective of designming this project is to check the simple responsive 
 
 ## Screenshot
 Deployed application screenshot of home-page, 
-<img width="2048" alt="homepage screenshot" src="https://user-images.githubusercontent.com/61192734/93264796-80500080-f75c-11ea-99fe-0a4463b80179.png">
+![homepage_screenshot](https://user-images.githubusercontent.com/61192734/99036551-b7f9df80-2536-11eb-83d1-89543802a654.png)
+
 
 Deployed application screenshot of portfolio-page:
-<img width="2047" alt="portfolio screenshot" src="https://user-images.githubusercontent.com/61192734/93264806-85ad4b00-f75c-11ea-9e5f-ef8ba248bfc8.png">
+![image](https://user-images.githubusercontent.com/61192734/99036342-53d71b80-2536-11eb-951c-8e1e6633886b.png)
 
 
 ## Links
