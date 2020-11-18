@@ -8,7 +8,7 @@ The main objective of designming this project is to check the simple responsive 
 
 ## Table of Contents
 * [Description](#description)
-* [Additions_on_my_portfolio_page](#additions-on-my-portfolio-page)
+* [Additions on my portfolio page](#additions-on-my-portfolio-page)
 * [Technologies](#technologies)
 * [Contribution](#contribution)
 * [Screenshot](#screenshot)
