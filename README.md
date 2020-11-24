@@ -18,6 +18,8 @@ The main objective of designming this project is to check the simple responsive 
 ## Additions on my portfolio page:
 - 2 group project
 - 4 project assigments
+- Updated Resume
+- Updated LinkedIn page
 
 ## Technologies
 - HTML & CSS.
